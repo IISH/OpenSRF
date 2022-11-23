@@ -80,15 +80,15 @@ DEBS =  \
 	libxslt1-dev\
 	memcached\
 	pkg-config\
-	python-coverage\
+	python3-coverage\
 	psmisc\
-	python-dev\
-	python-libxml2\
-	python-memcache\
-	python-nose\
-	python-pyxmpp\
-	python-setuptools\
-	python-simplejson\
+	python3-dev\
+	python3-libxml2\
+	python3-memcache\
+	python3-nose\
+	python3-sleekxmpp\
+	python3-setuptools\
+	python3-simplejson\
 	tar\
 	unzip\
 	zip\
